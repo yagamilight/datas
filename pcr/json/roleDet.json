@@ -12938,5 +12938,306 @@
         "headImg": "https://patchwiki.biligame.com/images/pcr/thumb/1/18/h8ni7jp1oej5mk2al7v1rjofkd4nqis.png/100px-Icon_unit_100231.png",
         "msg": "擅长战斗支援的温柔少女",
         "cg": "https://patchwiki.biligame.com/images/pcr/thumb/1/18/dnaohu2jy1fkrnenz7vwsq556500d9n.jpg/680px-Chr_100231.jpg"
+    },
+    {
+        "name": "森近铃",
+        "state": {
+            "攻击方式": "物理",
+            "HP": "16244",
+            "HP自动回复": "1750",
+            "TP自动回复": "220",
+            "HP回复量": "5",
+            "TP回复量": "0",
+            "物攻": "2836",
+            "魔攻": "0",
+            "物防": "200",
+            "魔防": "136",
+            "物理暴击": "10",
+            "法术暴击": "0",
+            "吸血": "0",
+            "闪避": "10",
+            "物理穿透": "0",
+            "魔法穿透": "0",
+            "能量消费减少": "0",
+            "Accuracy": "0",
+            "角色ID": "1026"
+        },
+        "equip": {
+            "Rank1": [
+                {
+                    "equipName": "钢矛",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/3/3c/1h4x4q49yzsr3u4g92fqby8b1rn1o0j.png/63px-101161.png"
+                },
+                {
+                    "equipName": "钢矛",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/3/3c/1h4x4q49yzsr3u4g92fqby8b1rn1o0j.png/63px-101161.png"
+                },
+                {
+                    "equipName": "皮革工作服",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/2c/s7sb2434loe64ckdluz8y1owq1csgj7.png/63px-101281.png"
+                },
+                {
+                    "equipName": "皮靴",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/6d/ryvux2b7ansdf6iau8afgu4l7a0jzt2.png/63px-101431.png"
+                },
+                {
+                    "equipName": "守护项链",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/61/0pp1j0pnjufszaphz5oqju2drq14s1g.png/63px-101581.png"
+                },
+                {
+                    "equipName": "守护项链",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/61/0pp1j0pnjufszaphz5oqju2drq14s1g.png/63px-101581.png"
+                }
+            ],
+            "Rank2": [
+                {
+                    "equipName": "火焰枪",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/71/fyuay0pazwquprap2bb3jax99fm1mwe.png/63px-102163.png"
+                },
+                {
+                    "equipName": "三叉戟",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/c1/fm3idwi32zm2725od53ncrzqe9vfva0.png/63px-102162.png"
+                },
+                {
+                    "equipName": "民俗服饰",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/e5/s127osnlbddxb4wd3hu4mjio4h8ikxt.png/63px-102341.png"
+                },
+                {
+                    "equipName": "可爱报童帽",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/ef/epns9gt2s0zxm2rnofrhzhtgqf7yx2j.png/63px-102491.png"
+                },
+                {
+                    "equipName": "守护项链",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/61/0pp1j0pnjufszaphz5oqju2drq14s1g.png/63px-101581.png"
+                },
+                {
+                    "equipName": "守护项链",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/61/0pp1j0pnjufszaphz5oqju2drq14s1g.png/63px-101581.png"
+                }
+            ],
+            "Rank3": [
+                {
+                    "equipName": "骑士的骄傲",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/c5/o96a1a3xkezfqsyi97qm9eo5z2l4qoq.png/63px-103161.png"
+                },
+                {
+                    "equipName": "火焰枪",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/71/fyuay0pazwquprap2bb3jax99fm1mwe.png/63px-102163.png"
+                },
+                {
+                    "equipName": "忍者装扮",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/b6/9b6jhuw7f15f8gu818hs8gwgvo0hfn9.png/63px-102342.png"
+                },
+                {
+                    "equipName": "狩猎靴",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/13/djwfya1ecjtm2024kus3vcrbn4obftk.png/63px-102432.png"
+                },
+                {
+                    "equipName": "仁爱宝珠",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/27/3qw5cctvhn9hvkjntcmpag52lxqaxxu.png/63px-102581.png"
+                },
+                {
+                    "equipName": "仁爱宝珠",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/27/3qw5cctvhn9hvkjntcmpag52lxqaxxu.png/63px-102581.png"
+                }
+            ],
+            "Rank4": [
+                {
+                    "equipName": "绝对之矛",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/cd/kaqeawc5e9aq7gvgxjhp7179mmq50oy.png/63px-103162.png"
+                },
+                {
+                    "equipName": "骑士的骄傲",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/c5/o96a1a3xkezfqsyi97qm9eo5z2l4qoq.png/63px-103161.png"
+                },
+                {
+                    "equipName": "千层服",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/b2/ss4reitdpnfvxxb7mxcp0cq724ey38q.png/63px-103341.png"
+                },
+                {
+                    "equipName": "忍者鞋",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/4/49/i2zszl0cofhugbhmo05id95e7p54773.png/63px-103431.png"
+                },
+                {
+                    "equipName": "胜利的编织手镯",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7a/ajiy0d7vmm75u2m96gjekag2wa8vb0o.png/63px-102582.png"
+                },
+                {
+                    "equipName": "尖刺手镯",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/74/pdlekxf26zljpis8gf95pu43tfeewe4.png/63px-102552.png"
+                }
+            ],
+            "Rank5": [
+                {
+                    "equipName": "闪电之斧",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/9/93/fhvru8jfe6ceqv82ryn5tttcbvkk456.png/63px-103193.png"
+                },
+                {
+                    "equipName": "绝对之矛",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/cd/kaqeawc5e9aq7gvgxjhp7179mmq50oy.png/63px-103162.png"
+                },
+                {
+                    "equipName": "宫廷服饰",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/f/f2/7syb727e342j54gldwqu9s2otljumy1.png/63px-103342.png"
+                },
+                {
+                    "equipName": "击剑之靴",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/ad/n62v0tn2flzfgbs1ykfvn0okxnrvypg.png/63px-103432.png"
+                },
+                {
+                    "equipName": "绿宝石耳环",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/13/gcbszfcarwwg3jlctugel7lk48sul8w.png/63px-103581.png"
+                },
+                {
+                    "equipName": "蛋白石耳环",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/78/1trgabg95gjsycy09jn2a0aumvyqv99.png/63px-103551.png"
+                }
+            ],
+            "Rank6": [
+                {
+                    "equipName": "绯龙矛",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/de/se4a67l3kjgpyuys86uoth003rizw8c.png/63px-104161.png"
+                },
+                {
+                    "equipName": "闪电之斧",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/9/93/fhvru8jfe6ceqv82ryn5tttcbvkk456.png/63px-103193.png"
+                },
+                {
+                    "equipName": "秩序法衣",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/8/8e/ikzopesogor57gvnt0e65d8hsss0ujd.png/63px-103343.png"
+                },
+                {
+                    "equipName": "石榴石之盾",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7b/gfn8n22ugwxrpyb7t70go8x1nioxi3z.png/63px-103401.png"
+                },
+                {
+                    "equipName": "狮鹫之羽饰",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/be/dnwp1g9wdznkwax2r1k7ak6iw4iuve0.png/63px-103552.png"
+                },
+                {
+                    "equipName": "八芒星坠饰",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/eb/8ukclbrxfer4cnqxjber7z5q5oiinep.png/63px-103582.png"
+                }
+            ],
+            "Rank7": [
+                {
+                    "equipName": "女王之矛",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/0/06/kdvwbrlie6hzlqsqug55nvxs27j9t2b.png/63px-104162.png"
+                },
+                {
+                    "equipName": "绯龙矛",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/de/se4a67l3kjgpyuys86uoth003rizw8c.png/63px-104161.png"
+                },
+                {
+                    "equipName": "月下法衣",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/1c/acd8zho0ciwd5gixfmbd7v3e64sge5i.png/63px-104341.png"
+                },
+                {
+                    "equipName": "狮子王的守护",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/d7/lwjf9dj3v1bb7mownz2bwd68ugpcrwc.png/63px-103583.png"
+                },
+                {
+                    "equipName": "绯红钻石",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7d/osobwfh5dp21dlhdmmrzm4631xenth1.png/63px-103553.png"
+                },
+                {
+                    "equipName": "八芒星坠饰",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/eb/8ukclbrxfer4cnqxjber7z5q5oiinep.png/63px-103582.png"
+                }
+            ],
+            "Rank8": [
+                {
+                    "equipName": "暴风权杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/5/56/1vahe3f59lmvgx649rnspv8mbffx410.png/63px-104163.png"
+                },
+                {
+                    "equipName": "暴风权杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/5/56/1vahe3f59lmvgx649rnspv8mbffx410.png/63px-104163.png"
+                },
+                {
+                    "equipName": "天使之靴",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/dc/puq8htrwqycozcetu0h8rfd6cc7sirz.png/63px-104432.png"
+                },
+                {
+                    "equipName": "羽翼头盔",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/cd/5ehj6bceazi25x666bhf26qzdqac24t.png/63px-104491.png"
+                },
+                {
+                    "equipName": "元素之心",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/f/f8/0lfvhkpi13w04zss309dl5tqpnrvemo.png/63px-104551.png"
+                },
+                {
+                    "equipName": "狮子王的守护",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/d7/lwjf9dj3v1bb7mownz2bwd68ugpcrwc.png/63px-103583.png"
+                }
+            ]
+        },
+        "tachie": "",
+        "info": {
+            "角色名": "森近铃",
+            "初始星级": [
+                "https://patchwiki.biligame.com/images/pcr/0/02/flarr20gwdjvjiejjs7c1aoarvecoti.png",
+                "https://patchwiki.biligame.com/images/pcr/0/02/flarr20gwdjvjiejjs7c1aoarvecoti.png"
+            ],
+            "职业": "战士",
+            "类型": "中卫",
+            "身高": "144cm",
+            "体重": "42kg",
+            "年龄": "17",
+            "生日": "1月1日",
+            "血型": "B",
+            "种族": "兽人族",
+            "工会": "伊丽莎白牧场",
+            "兴趣": "豆沙面包",
+            "CV": "小岩井小鸟",
+            "碎片获取": "地下城碎片商店",
+            "外号": "松鼠"
+        },
+        "jiban1": {
+            "羁绊2": "物理攻击力+15",
+            "羁绊3": "物理攻击力+15",
+            "羁绊4": "物理攻击力+30"
+        },
+        "jiban2": {
+            "羁绊5": "物理攻击力+40",
+            "羁绊6": "物理攻击力+40 TP自动回复+60",
+            "羁绊7": "物理攻击力+40 TP自动回复+60",
+            "羁绊8": "物理攻击力+60 TP自动回复+90 魔法防御力+4"
+        },
+        "skill": [
+            {
+                "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/a2/5q7nazs2liyw67qhl9lfnideefpjved.png/90px-Icon_skill_1003.png",
+                "name": "尝尝亲手烘焙的红豆包",
+                "desc": "小幅回复己方全体的生命值，并小幅提升其物理攻击力和魔法防御力。",
+                "result": "回复我方全体1886 【2.25+2.25*技能等级+0.25*atk】的HP。提升我方全体912 【6.0+6.0*技能等级】的物理攻击力。持续【18.0】 秒。提升我方全体106【0.7+0.7*技能等级】的魔法防御力。持续【18.0】秒。"
+            },
+            {
+                "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/f/f0/h1t78f08vimda5cvkul631fb3hm9yfw.png/90px-Icon_skill_2018.png",
+                "name": "橡子投击",
+                "desc": "对前方一名敌人造成物理伤害（中），并使其眩晕。",
+                "result": "对敌方单体造成3382【6.0+6.0*技能等级+0.4*atk】的物理伤害。使敌方单体一段时间内无法行动。持续【2.5】秒。"
+            },
+            {
+                "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/4/4c/8kkcuvhtqgpoeorrlwvv7iy788773jj.png/90px-Icon_skill_2003.png",
+                "name": "幸福自会敲门",
+                "desc": "大幅提升自身周围所有己方角色的魔法防御力。",
+                "result": "提升范围内的我方182【1.2+1.2*技能等级】的魔法防御力。持续【12.0】秒。范围【150】。"
+            },
+            {
+                "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/8/81/tme894eo6pw1eutabm7kbt7wb30n2fz.png/90px-Icon_skill_3004.png",
+                "name": "橡子充能",
+                "desc": "战斗开始时，中幅提升自身魔法防御力。",
+                "result": "提升自身304【2.0+2.0*技能等级】的魔法防御力。"
+            },
+            {
+                "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/8/81/tme894eo6pw1eutabm7kbt7wb30n2fz.png/90px-Icon_skill_3004.png",
+                "name": "橡子充能+",
+                "desc": "战斗开始时，大幅提升自己的魔法防御力。",
+                "result": "提升自身334【32.0+2.0*技能等级】的魔法防御力。"
+            }
+        ],
+        "headImg": "https://patchwiki.biligame.com/images/pcr/thumb/0/02/al8yiod9vehdtaov9pgs41uovntnkr2.png/100px-Icon_unit_102631.png",
+        "msg": "哎，和我一起悠闲地玩游戏吧~偶尔休息一下也很重要哦？",
+        "cg": "https://patchwiki.biligame.com/images/pcr/thumb/3/3a/9iwz8scgpsk85oo0p5vvudhn4ap6vqi.jpg/680px-Chr_102631.jpg"
     }
 ]

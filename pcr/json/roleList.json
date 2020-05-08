@@ -385,5 +385,14 @@
         "type": "前卫",
         "career": "坦克",
         "mode": "物理"
+    },
+    {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/0/02/al8yiod9vehdtaov9pgs41uovntnkr2.png/90px-Icon_unit_102631.png",
+        "name": "森近铃",
+        "nick": "松鼠",
+        "star": "2",
+        "type": "中卫",
+        "career": "战士",
+        "mode": "物理"
     }
 ]
