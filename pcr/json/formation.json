@@ -478,5 +478,6 @@
             "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/0/05/exnyc4y1iuhrbjg3gxe7fncrj2mevmh.png/30px-Icon_unit_103831.png"
         }],
         "desc": "第一次团队战阵容，租借狼/狗"
-    }
+    },
+    {"type": "PVP", "one": [{"name": "白银纯", "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/9/98/4qostpj00cvuozwjjl2po690k9iu994.png/30px-Icon_unit_104731.png"}, {"name": "出云宫子", "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/62/nu4e4h9eopdciqg2va9hf4c8fqjzq3q.png/30px-Icon_unit_100731.png"}], "two": [{"name": "喜屋武香织", "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/5/59/516euuhwnsfoqvolt8usv5z1jq0kfov.png/30px-Icon_unit_101731.png"}], "three": [{"name": "安艺真琴", "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/27/ergoy0815kqjqqpqn3sa0yuz2be4pco.png/30px-Icon_unit_104331.png"}], "four": [{"name": "可可萝", "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/a4/mrwruc57npoamhw5y9ttd76s0l76xzd.png/30px-Icon_unit_105931.png"}, {"name": "莫妮卡·拜斯温特", "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/0/03/smxy5tsyd5t92fqk5onwy56hlvbobb1.png/30px-Icon_unit_105331.png"}], "five": [{"name": "风宫茜里", "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/14/8pn703o0duodmiyou1c565wjczj5b5o.png/30px-Icon_unit_100631.png"}], "desc": "相对低配破猫阵容。打真步藏猫优先用可可萝加速，毛二力容易乱轴吃致盲。妹法吃布丁和猫的伤害，很好用。"}
 ]
