@@ -190,7 +190,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/0/03/smxy5tsyd5t92fqk5onwy56hlvbobb1.png/90px-Icon_unit_105331.png",
-        "name": "莫妮卡・韦斯文特",
+        "name": "莫妮卡·拜斯温特",
         "nick": "毛二力",
         "star": "3",
         "type": "中卫",
@@ -393,6 +393,15 @@
         "star": "2",
         "type": "中卫",
         "career": "战士",
+        "mode": "物理"
+    },
+    {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7c/9mlr4cmt1yol6qam0k5eetgqpoy9wao.png/90px-Icon_unit_106331.png",
+        "name": "亚里莎",
+        "nick": "亚里瞎，瞎子",
+        "star": "3",
+        "type": "后卫",
+        "career": "弓箭手",
         "mode": "物理"
     }
 ]
