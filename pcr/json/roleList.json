@@ -403,5 +403,14 @@
         "type": "后卫",
         "career": "弓箭手",
         "mode": "物理"
+    },
+    {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/de/gx8trmx54y7ft24lq8k0gubg1ag6ree.png/100px-Icon_unit_102331.png",
+        "name": "北条绫音",
+        "nick": "熊妹，熊锤",
+        "star": "2",
+        "type": "前卫",
+        "career": "战士",
+        "mode": "物理"
     }
 ]
