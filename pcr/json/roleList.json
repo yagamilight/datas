@@ -412,5 +412,14 @@
         "type": "前卫",
         "career": "战士",
         "mode": "物理"
+    },
+    {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/11/kf7jk1e35kfnqqvdd9l0y5f408ktm40.png/100px-Icon_unit_103631.png",
+        "name": "冰川镜华",
+        "nick": "xcw",
+        "star": "3",
+        "type": "后卫",
+        "career": "法师",
+        "mode": "魔法"
     }
 ]

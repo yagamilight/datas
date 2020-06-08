@@ -13891,5 +13891,308 @@
         ],
         "headImg": "https://patchwiki.biligame.com/images/pcr/thumb/d/de/gx8trmx54y7ft24lq8k0gubg1ag6ree.png/100px-Icon_unit_102331.png",
         "gif": "https://patchwiki.biligame.com/images/pcr/8/88/aei34onqjd0pyktcre7ji0lb0j7yf1x.gif"
+    },
+    {
+        "name": "冰川镜华",
+        "msg": "现在是学习时间 请不要和我说话… 请不要再露出那种表情了 我会陪你玩的！",
+        "state": {
+            "攻击方式": "魔法",
+            "HP": "13034",
+            "HP自动回复": "100",
+            "TP自动回复": "235",
+            "HP回复量": "75",
+            "TP回复量": "5",
+            "物攻": "0",
+            "魔攻": "3648",
+            "物防": "86",
+            "魔防": "145",
+            "物理暴击": "0",
+            "法术暴击": "32",
+            "吸血": "3",
+            "闪避": "0",
+            "物理穿透": "0",
+            "魔法穿透": "0",
+            "能量消费减少": "0",
+            "Accuracy": "0",
+            "角色ID": "1036"
+        },
+        "cg": "https://patchwiki.biligame.com/images/pcr/thumb/1/1b/qvecmk57e8ie0rcsdzoserlmbm4k771.jpg/680px-Chr_103631.jpg",
+        "equip": {
+            "Rank1": [
+                {
+                    "equipName": "香木法杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/c4/o5nl5kqu1axrt1ej8r9ff8abefaeswp.png/63px-101251.png"
+                },
+                {
+                    "equipName": "香木法杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/c4/o5nl5kqu1axrt1ej8r9ff8abefaeswp.png/63px-101251.png"
+                },
+                {
+                    "equipName": "旅行长袍",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/4/47/0qcne2kim3j768twn0krc7x5dxbjwyx.png/63px-101371.png"
+                },
+                {
+                    "equipName": "时尚贝雷帽",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/22/iupydurw4jss88gs1f9qcxcgi7b0btg.png/63px-101521.png"
+                },
+                {
+                    "equipName": "助威手镯",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/63/cdt3s950ndkrv5ddi6qf49hr7cg0k8c.png/63px-101611.png"
+                },
+                {
+                    "equipName": "助威手镯",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/63/cdt3s950ndkrv5ddi6qf49hr7cg0k8c.png/63px-101611.png"
+                }
+            ],
+            "Rank2": [
+                {
+                    "equipName": "雏龙之杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7d/h5z6qvflav08iryrrab343066ng13lf.png/63px-102222.png"
+                },
+                {
+                    "equipName": "绿意之杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/60/sxiu8rbqgrwitcxp8mcssdp65gzpw1o.png/63px-102221.png"
+                },
+                {
+                    "equipName": "春日长袍",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/c4/5jkqkf7zcx8hq0ij8kpsoromq00pair.png/63px-102371.png"
+                },
+                {
+                    "equipName": "女巫靴",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7f/77mh5lkc4xq871xjq8lnyj2unq9kcyz.png/63px-102461.png"
+                },
+                {
+                    "equipName": "助威手镯",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/63/cdt3s950ndkrv5ddi6qf49hr7cg0k8c.png/63px-101611.png"
+                },
+                {
+                    "equipName": "助威手镯",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/63/cdt3s950ndkrv5ddi6qf49hr7cg0k8c.png/63px-101611.png"
+                }
+            ],
+            "Rank3": [
+                {
+                    "equipName": "赤血法杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/3/31/68wq37nywx60z4cxp4oyg0cbsf0qax4.png/63px-103221.png"
+                },
+                {
+                    "equipName": "雏龙之杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7d/h5z6qvflav08iryrrab343066ng13lf.png/63px-102222.png"
+                },
+                {
+                    "equipName": "北国长袍",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/b9/1qgwhj2ns2c37ecsr9ubpd7j6u3i41c.png/63px-102372.png"
+                },
+                {
+                    "equipName": "修女兜帽",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/4/46/goie1fjenba4s3op7bo4opei18ed9pb.png/63px-102521.png"
+                },
+                {
+                    "equipName": "魔法眼镜",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/4/46/8eop8v42iwi4afoqofnje9y3q1m8wwr.png/63px-102611.png"
+                },
+                {
+                    "equipName": "魔法眼镜",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/4/46/8eop8v42iwi4afoqofnje9y3q1m8wwr.png/63px-102611.png"
+                }
+            ],
+            "Rank4": [
+                {
+                    "equipName": "花蕾之杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/ac/ohv5cf07kdkw4ydys7zpq4u4hvp4mhx.png/63px-103252.png"
+                },
+                {
+                    "equipName": "女巫发箍",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/cf/p3ix88j42hzveo826vw1tfy4r90hwkk.png/63px-103521.png"
+                },
+                {
+                    "equipName": "天球护身法杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/f/fa/p0olvv489s622u3emuw7au3p3g9ln73.png/63px-103251.png"
+                },
+                {
+                    "equipName": "绿松石耳环",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/21/pegs7kdo3xni8uppcpiol124cairqxz.png/63px-103611.png"
+                },
+                {
+                    "equipName": "魔法单眼镜",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/71/ci8a6kaw2qaxkcnrn4qda1sximdcy2t.png/63px-102613.png"
+                },
+                {
+                    "equipName": "魔法单眼镜",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/71/ci8a6kaw2qaxkcnrn4qda1sximdcy2t.png/63px-102613.png"
+                }
+            ],
+            "Rank5": [
+                {
+                    "equipName": "恶魔之角",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7d/9gzxc0t0t5ur6vdekzl4wt4utlkxyjj.png/63px-103222.png"
+                },
+                {
+                    "equipName": "花蕾之杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/ac/ohv5cf07kdkw4ydys7zpq4u4hvp4mhx.png/63px-103252.png"
+                },
+                {
+                    "equipName": "丘比特长袍",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/5/58/oz7pzq45zp2mf7ty7ffjmn9f2jmm8tf.png/63px-103371.png"
+                },
+                {
+                    "equipName": "女巫帽",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/16/ejv0in6kxyy72xlng9er7jxoh6y5524.png/63px-103522.png"
+                },
+                {
+                    "equipName": "绿松石耳环",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/21/pegs7kdo3xni8uppcpiol124cairqxz.png/63px-103611.png"
+                },
+                {
+                    "equipName": "绿松石耳环",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/21/pegs7kdo3xni8uppcpiol124cairqxz.png/63px-103611.png"
+                }
+            ],
+            "Rank6": [
+                {
+                    "equipName": "愤怒法杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/9/9e/9dw4w65sxq1mdqxhp0waua6q8cv07df.png/63px-104221.png"
+                },
+                {
+                    "equipName": "恶魔之角",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7d/9gzxc0t0t5ur6vdekzl4wt4utlkxyjj.png/63px-103222.png"
+                },
+                {
+                    "equipName": "哲学家长袍",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/5/5d/p5l5jd6900cs7794nsufkxmr8kqudid.png/63px-103372.png"
+                },
+                {
+                    "equipName": "女巫帽",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/16/ejv0in6kxyy72xlng9er7jxoh6y5524.png/63px-103522.png"
+                },
+                {
+                    "equipName": "丘比特长袍",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/5/58/oz7pzq45zp2mf7ty7ffjmn9f2jmm8tf.png/63px-103371.png"
+                },
+                {
+                    "equipName": "魔法使眼镜",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/3/37/ni39inpcldoq3ikr3124cznln3gu045.png/63px-103613.png"
+                }
+            ],
+            "Rank7": [
+                {
+                    "equipName": "太阳法杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/c3/l8b161age2iunx7rd9zi7nqe3spzmpe.png/63px-104222.png"
+                },
+                {
+                    "equipName": "愤怒法杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/9/9e/9dw4w65sxq1mdqxhp0waua6q8cv07df.png/63px-104221.png"
+                },
+                {
+                    "equipName": "大魔导师长袍",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/9/90/q0ixpuwuw0z4ngi1o5uv3ai3dlssj9d.png/63px-104371.png"
+                },
+                {
+                    "equipName": "月桂树的悲凄",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/b0/9uplhcovdkjuumvt4qhhdjiztxz34yj.png/63px-103614.png"
+                },
+                {
+                    "equipName": "月桂树的悲凄",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/b0/9uplhcovdkjuumvt4qhhdjiztxz34yj.png/63px-103614.png"
+                },
+                {
+                    "equipName": "魔法使眼镜",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/3/37/ni39inpcldoq3ikr3124cznln3gu045.png/63px-103613.png"
+                }
+            ],
+            "Rank8": [
+                {
+                    "equipName": "司法之神的锡杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/f/fe/b3p2yqavc7j98vzk8ixhykp84k5j5cf.png/63px-104223.png"
+                },
+                {
+                    "equipName": "太阳法杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/c3/l8b161age2iunx7rd9zi7nqe3spzmpe.png/63px-104222.png"
+                },
+                {
+                    "equipName": "法王兜帽",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/4/4a/t3t3akirkeuckbytjhwhho56mghl6lo.png/63px-104522.png"
+                },
+                {
+                    "equipName": "愤怒法杖",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/9/9e/9dw4w65sxq1mdqxhp0waua6q8cv07df.png/63px-104221.png"
+                },
+                {
+                    "equipName": "新月的叹息",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/a8/fie9icszexu553jhhldt2f7jmhady1f.png/63px-104611.png"
+                },
+                {
+                    "equipName": "月桂树的悲凄",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/b0/9uplhcovdkjuumvt4qhhdjiztxz34yj.png/63px-103614.png"
+                }
+            ]
+        },
+        "tachie": "https://patchwiki.biligame.com/images/pcr/thumb/6/6a/mdu0d0393m3m84fpmpiqml7mcjfp0pp.png/450px-%E6%B0%B7%E5%B7%9D%E9%8F%A1%E8%8F%AF.png",
+        "info": {
+            "角色名": "冰川镜华",
+            "初始星级": [
+                "https://patchwiki.biligame.com/images/pcr/0/02/flarr20gwdjvjiejjs7c1aoarvecoti.png",
+                "https://patchwiki.biligame.com/images/pcr/0/02/flarr20gwdjvjiejjs7c1aoarvecoti.png",
+                "https://patchwiki.biligame.com/images/pcr/0/02/flarr20gwdjvjiejjs7c1aoarvecoti.png"
+            ],
+            "职业": "法师",
+            "类型": "后卫",
+            "身高": "118cm",
+            "体重": "21kg",
+            "年龄": "8岁",
+            "生日": "2月2日(水瓶座）",
+            "血型": "A型",
+            "种族": "精灵族",
+            "公会": "小小甜心",
+            "兴趣": "学习",
+            "CV": "小仓唯",
+            "碎片获取": "暂无",
+            "外号": "xcw"
+        },
+        "jiban1": {
+            "羁绊2": "魔法攻击力＋15",
+            "羁绊3": "魔法攻击力＋15",
+            "羁绊4": "魔法攻击力＋30"
+        },
+        "jiban2": {
+            "羁绊5": "魔法攻击力+40",
+            "羁绊6": "魔法攻击力+60",
+            "羁绊7": "魔法攻击力+60",
+            "羁绊8": "魔法攻击力+90、魔法暴击+10"
+        },
+        "skill": [
+            {
+                "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7c/gpudni25z9rkkjtbb23gwmks487dby8.png/90px-Icon_skill_1002.png",
+                "name": "宇宙蓝色闪光",
+                "desc": "对面前一名敌人造成魔法伤害(特大)。",
+                "result": "对敌方单体造成X点【60.0+60.0*UB等级+5.0*魔法攻击力】魔法伤害。"
+            },
+            {
+                "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/70/ht2u5hgw32vdmwtcc5zynvfxi24h9yz.png/90px-Icon_skill_2002.png",
+                "name": "冰枪术",
+                "desc": "对前方一名敌人造成魔法伤害（中）。",
+                "result": "对范围内敌人造成X点【20.0+20.0*技能等级+1.6*魔法攻击力】魔法伤害。"
+            },
+            {
+                "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/4/4c/8kkcuvhtqgpoeorrlwvv7iy788773jj.png/90px-Icon_skill_2003.png",
+                "name": "魔力增幅",
+                "desc": "短时间内提升自己的魔法攻击力 (大)。",
+                "result": "提升自身X【28.0+28.0*技能等级】的魔法攻击力 ，持续【9.0】秒。"
+            },
+            {
+                "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/a5/dcw7xxu4b0rlis44mial46p8zmp0fpb.png/90px-Icon_skill_3003.png",
+                "name": "小小的勇气",
+                "desc": "战斗开始时提升自身魔法攻击力（中）。",
+                "result": "提升自身X点【15.0+15.0*技能等级】魔法攻击力。"
+            },
+            {
+                "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/a5/dcw7xxu4b0rlis44mial46p8zmp0fpb.png/90px-Icon_skill_3003.png",
+                "name": "小小的勇气+",
+                "desc": "战斗开始时提升自身魔法攻击力（大）。",
+                "result": "提升自身1335点【240.0+15.0*技能等级】魔法攻击力。"
+            }
+        ],
+        "headImg": "https://patchwiki.biligame.com/images/pcr/thumb/1/11/kf7jk1e35kfnqqvdd9l0y5f408ktm40.png/100px-Icon_unit_103631.png",
+        "gif": ""
     }
 ]
