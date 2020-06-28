@@ -15699,332 +15699,330 @@
         "headImg": "https://patchwiki.biligame.com/images/pcr/thumb/e/e2/10hawbdrcs5cv32ynab7ofxw2bfutrg.png/100px-Icon_unit_104431.png",
         "gif": ""
     },
-    [
-        {
-            "name": "未奏希",
-            "msg": "好ー嘞、恶作剧设置完毕！",
-            "state": {
-                "攻击方式": "物理",
-                "HP": "18919",
-                "HP自动回复": "2585",
-                "TP自动回复": "145",
-                "HP回复量": "30",
-                "TP上升": "24",
-                "物攻": "3236",
-                "魔攻": "30",
-                "物防": "200",
-                "魔防": "147",
-                "物理暴击": "70",
-                "法术暴击": "0",
-                "吸血": "6",
-                "闪避": "32",
-                "物理穿透": "0",
-                "魔法穿透": "0",
-                "TP消费减少": "15",
-                "Accuracy": "0",
-                "角色ID": "1004"
-            },
-            "cg": "https://patchwiki.biligame.com/images/pcr/thumb/b/bf/96hv2b1xswt9fgr69fppgqur3u1slw3.jpg/680px-Chr_100431.jpg",
-            "equip": {
-                "Rank1": [
-                    {
-                        "equipName": "铁剑",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/a7/1ovmokbt2phsjbampss5izy4gmekyid.png/63px-101011.png"
-                    },
-                    {
-                        "equipName": "铁剑",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/a7/1ovmokbt2phsjbampss5izy4gmekyid.png/63px-101011.png"
-                    },
-                    {
-                        "equipName": "皮革工作服",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/2c/s7sb2434loe64ckdluz8y1owq1csgj7.png/63px-101281.png"
-                    },
-                    {
-                        "equipName": "皮靴",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/6d/ryvux2b7ansdf6iau8afgu4l7a0jzt2.png/63px-101431.png"
-                    },
-                    {
-                        "equipName": "守护项链",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/61/0pp1j0pnjufszaphz5oqju2drq14s1g.png/63px-101581.png"
-                    },
-                    {
-                        "equipName": "守护项链",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/61/0pp1j0pnjufszaphz5oqju2drq14s1g.png/63px-101581.png"
-                    }
-                ],
-                "Rank2": [
-                    {
-                        "equipName": "皮革手套",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/24/bn063rtrj1unuorm7wzw71suow3wisv.png/63px-102101.png"
-                    },
-                    {
-                        "equipName": "指挥匕首",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/b3/c1wk8itiuvjuw7n3js65nf4859emyas.png/63px-102071.png"
-                    },
-                    {
-                        "equipName": "民俗服饰",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/e5/s127osnlbddxb4wd3hu4mjio4h8ikxt.png/63px-102341.png"
-                    },
-                    {
-                        "equipName": "小丑靴",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/5/5f/ktk85ej5bo17eo2hh41vqfinuvgksb1.png/63px-102431.png"
-                    },
-                    {
-                        "equipName": "守护项链",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/61/0pp1j0pnjufszaphz5oqju2drq14s1g.png/63px-101581.png"
-                    },
-                    {
-                        "equipName": "守护项链",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/61/0pp1j0pnjufszaphz5oqju2drq14s1g.png/63px-101581.png"
-                    }
-                ],
-                "Rank3": [
-                    {
-                        "equipName": "铂金小刀",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/8/81/2hmr3zp6khy4fxa65fphbsuxnl7ke3n.png/63px-103071.png"
-                    },
-                    {
-                        "equipName": "皮革手套",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/24/bn063rtrj1unuorm7wzw71suow3wisv.png/63px-102101.png"
-                    },
-                    {
-                        "equipName": "民俗服饰",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/e5/s127osnlbddxb4wd3hu4mjio4h8ikxt.png/63px-102341.png"
-                    },
-                    {
-                        "equipName": "狩猎靴",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/13/djwfya1ecjtm2024kus3vcrbn4obftk.png/63px-102432.png"
-                    },
-                    {
-                        "equipName": "仁爱宝珠",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/27/3qw5cctvhn9hvkjntcmpag52lxqaxxu.png/63px-102581.png"
-                    },
-                    {
-                        "equipName": "仁爱宝珠",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/27/3qw5cctvhn9hvkjntcmpag52lxqaxxu.png/63px-102581.png"
-                    }
-                ],
-                "Rank4": [
-                    {
-                        "equipName": "龙牙之爪",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/5/5b/9dft5dwxipfr1psx9vosnifae5495xk.png/63px-103101.png"
-                    },
-                    {
-                        "equipName": "铂金小刀",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/8/81/2hmr3zp6khy4fxa65fphbsuxnl7ke3n.png/63px-103071.png"
-                    },
-                    {
-                        "equipName": "千层服",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/b2/ss4reitdpnfvxxb7mxcp0cq724ey38q.png/63px-103341.png"
-                    },
-                    {
-                        "equipName": "忍者鞋",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/4/49/i2zszl0cofhugbhmo05id95e7p54773.png/63px-103431.png"
-                    },
-                    {
-                        "equipName": "胜利的编织手镯",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7a/ajiy0d7vmm75u2m96gjekag2wa8vb0o.png/63px-102582.png"
-                    },
-                    {
-                        "equipName": "胜利的编织手镯",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7a/ajiy0d7vmm75u2m96gjekag2wa8vb0o.png/63px-102582.png"
-                    }
-                ],
-                "Rank5": [
-                    {
-                        "equipName": "吸血鬼匕首",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7a/4o9412jjh8del4ikuxxat1kogoc7clb.png/63px-103072.png"
-                    },
-                    {
-                        "equipName": "龙牙之爪",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/5/5b/9dft5dwxipfr1psx9vosnifae5495xk.png/63px-103101.png"
-                    },
-                    {
-                        "equipName": "宫廷服饰",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/f/f2/7syb727e342j54gldwqu9s2otljumy1.png/63px-103342.png"
-                    },
-                    {
-                        "equipName": "击剑之靴",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/ad/n62v0tn2flzfgbs1ykfvn0okxnrvypg.png/63px-103432.png"
-                    },
-                    {
-                        "equipName": "八芒星项链",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/eb/8ukclbrxfer4cnqxjber7z5q5oiinep.png/63px-103582.png"
-                    },
-                    {
-                        "equipName": "绿宝石耳环",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/13/gcbszfcarwwg3jlctugel7lk48sul8w.png/63px-103581.png"
-                    }
-                ],
-                "Rank6": [
-                    {
-                        "equipName": "火焰护臂",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/cf/1rj0l9vuygb0f38kil7r345w4i6trys.png/63px-104101.png"
-                    },
-                    {
-                        "equipName": "吸血鬼匕首",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7a/4o9412jjh8del4ikuxxat1kogoc7clb.png/63px-103072.png"
-                    },
-                    {
-                        "equipName": "秩序法衣",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/8/8e/ikzopesogor57gvnt0e65d8hsss0ujd.png/63px-103343.png"
-                    },
-                    {
-                        "equipName": "击剑之靴",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/ad/n62v0tn2flzfgbs1ykfvn0okxnrvypg.png/63px-103432.png"
-                    },
-                    {
-                        "equipName": "狮鹫之羽饰",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/be/dnwp1g9wdznkwax2r1k7ak6iw4iuve0.png/63px-103552.png"
-                    },
-                    {
-                        "equipName": "八芒星项链",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/eb/8ukclbrxfer4cnqxjber7z5q5oiinep.png/63px-103582.png"
-                    }
-                ],
-                "Rank7": [
-                    {
-                        "equipName": "狮子王的护臂",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/b7/f66clscxcltutrckbf999w1mvrwwv5x.png/63px-104102.png"
-                    },
-                    {
-                        "equipName": "火焰护臂",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/cf/1rj0l9vuygb0f38kil7r345w4i6trys.png/63px-104101.png"
-                    },
-                    {
-                        "equipName": "月下法衣",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/1c/acd8zho0ciwd5gixfmbd7v3e64sge5i.png/63px-104341.png"
-                    },
-                    {
-                        "equipName": "狮子王的守护",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/d7/lwjf9dj3v1bb7mownz2bwd68ugpcrwc.png/63px-103583.png"
-                    },
-                    {
-                        "equipName": "狮子王的守护",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/d7/lwjf9dj3v1bb7mownz2bwd68ugpcrwc.png/63px-103583.png"
-                    },
-                    {
-                        "equipName": "狮鹫之羽饰",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/be/dnwp1g9wdznkwax2r1k7ak6iw4iuve0.png/63px-103552.png"
-                    }
-                ],
-                "Rank8": [
-                    {
-                        "equipName": "暴雪之爪",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/1d/s2sg2cp014k73golky0ufwe6wsk3pu0.png/63px-104103.png"
-                    },
-                    {
-                        "equipName": "狮子王的护臂",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/b7/f66clscxcltutrckbf999w1mvrwwv5x.png/63px-104102.png"
-                    },
-                    {
-                        "equipName": "隐者服饰",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/3/3e/jt81qzofk8vweipjjck0gwpx55npau4.png/63px-104342.png"
-                    },
-                    {
-                        "equipName": "圣骑士护胫甲",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/79/kkatno6anpc33srv3efjfl5kwmn45e2.png/63px-104431.png"
-                    },
-                    {
-                        "equipName": "替身手环",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/c1/rj9xxze3axo7b2w4fsjknw9nqe8u2jy.png/63px-104581.png"
-                    },
-                    {
-                        "equipName": "狮子王的守护",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/d7/lwjf9dj3v1bb7mownz2bwd68ugpcrwc.png/63px-103583.png"
-                    }
-                ],
-                "Rank9": [
-                    {
-                        "equipName": "苍雷拳",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/0/0b/1w4q2kkvsy4jmt3vz8orzdmn67x0j93.png/63px-104104.png"
-                    },
-                    {
-                        "equipName": "暴雪之爪",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/1d/s2sg2cp014k73golky0ufwe6wsk3pu0.png/63px-104103.png"
-                    },
-                    {
-                        "equipName": "苍天长袍",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7b/1biayyhyvostxqhg4npekvcvl50gnsz.png/63px-104343.png"
-                    },
-                    {
-                        "equipName": "天使之靴",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/dc/puq8htrwqycozcetu0h8rfd6cc7sirz.png/63px-104432.png"
-                    },
-                    {
-                        "equipName": "月之手链",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/1c/6ghvcs2jhbmdw2jyw8an2pp5m7ufgzk.png/63px-104582.png"
-                    },
-                    {
-                        "equipName": "替身手环",
-                        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/c1/rj9xxze3axo7b2w4fsjknw9nqe8u2jy.png/63px-104581.png"
-                    }
-                ]
-            },
-            "tachie": "https://patchwiki.biligame.com/images/pcr/thumb/2/23/mem6rgxw87emwdk7mrkar2xnxsluz5c.png/450px-%E7%A9%82%E9%AB%98%E3%81%BF%E3%81%9D%E3%81%8E.png",
-            "info": {
-                "角色名": "穗高未奏希",
-                "全名": "穂高みそぎ",
-                "外号": "炸弹人",
-                "初始星级": [
-                    "https://patchwiki.biligame.com/images/pcr/0/02/flarr20gwdjvjiejjs7c1aoarvecoti.png"
-                ],
-                "职业": "战士",
-                "类型": "前卫",
-                "身高": "128cm",
-                "体重": "27kg",
-                "年龄": "9岁",
-                "生日": "８月10日(狮子座）",
-                "血型": "Ｏ型",
-                "种族": "人类",
-                "公会": "小小甜心",
-                "兴趣": "恶作剧、探险",
-                "CV": "诸星堇",
-                "碎片获取": "单人竞技场商店"
-            },
-            "jiban": {
-                "羁绊2": "物理攻击力+15",
-                "羁绊3": "物理攻击力+30",
-                "羁绊4": "物理攻击力+30",
-                "羁绊5": "物理攻击力+40",
-                "羁绊6": "物理攻击力+40 物理防御力+4",
-                "羁绊7": "物理攻击力+40 物理防御力+4",
-                "羁绊8": "物理攻击力+60 物理防御力+6 HP+200"
-            },
-            "skill": [
+    {
+        "name": "未奏希",
+        "msg": "好ー嘞、恶作剧设置完毕！",
+        "state": {
+            "攻击方式": "物理",
+            "HP": "18919",
+            "HP自动回复": "2585",
+            "TP自动回复": "145",
+            "HP回复量": "30",
+            "TP上升": "24",
+            "物攻": "3236",
+            "魔攻": "30",
+            "物防": "200",
+            "魔防": "147",
+            "物理暴击": "70",
+            "法术暴击": "0",
+            "吸血": "6",
+            "闪避": "32",
+            "物理穿透": "0",
+            "魔法穿透": "0",
+            "TP消费减少": "15",
+            "Accuracy": "0",
+            "角色ID": "1004"
+        },
+        "cg": "https://patchwiki.biligame.com/images/pcr/thumb/b/bf/96hv2b1xswt9fgr69fppgqur3u1slw3.jpg/680px-Chr_100431.jpg",
+        "equip": {
+            "Rank1": [
                 {
-                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/8/83/6zmn119kp1uu2ngu01154po0xbdhxwq.png/90px-Icon_skill_1001.png",
-                    "name": "捣蛋轰炸机",
-                    "desc": "以距离自身第二近的一名敌人为中心对范围内所有敌人造成物理伤害（中）。",
-                    "result": "以距离自身第二近的一名敌人为中心对范围内的敌人造成【20.4+20.4*技能等级+1.62*物理攻击力】点物理伤害，范围【300】"
+                    "equipName": "铁剑",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/a7/1ovmokbt2phsjbampss5izy4gmekyid.png/63px-101011.png"
                 },
                 {
-                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/bf/a1332uhudwm8c7tmfwtcku9wrxf07fx.png/90px-Icon_skill_2010.png",
-                    "name": "墨水射击",
-                    "desc": "对距离自身第二近的一名敌人造成物理伤害（小）、并使其陷入黑暗状态。",
-                    "result": "对距离自身第二近的敌方造成【8.0+8.0*技能等级+0.6*物理攻击力】点物理伤害，并使其陷入黑暗状态，持续时间【8.0】秒，对象进行物理攻击时有【30%】概率miss。"
+                    "equipName": "铁剑",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/a7/1ovmokbt2phsjbampss5izy4gmekyid.png/63px-101011.png"
                 },
                 {
-                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/3/3c/j0rmobeq8set6qe1kexqub13caafy8a.png/90px-Icon_skill_2004.png",
-                    "name": "水球投掷",
-                    "desc": "对物理攻击力最高的一名敌人造成物理伤害（小）、使其降低物理攻击力（小）、并提升自身物理攻击力（小）。",
-                    "result": "对物理攻击力最高的敌方造成【10.0+10.0*技能等级+0.8*物理攻击力】点物理伤害，"
+                    "equipName": "皮革工作服",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/2c/s7sb2434loe64ckdluz8y1owq1csgj7.png/63px-101281.png"
                 },
                 {
-                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/f/f8/3yzs5tjjofupmtpc1udbsy19upjesgm.png/90px-Icon_skill_3002.png",
-                    "name": "陷阱专家",
-                    "desc": "战斗开始时提升自身物理防御力（中） 。",
-                    "result": "提升自身【2.0+2.0*技能等级】点物理防御力"
+                    "equipName": "皮靴",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/6d/ryvux2b7ansdf6iau8afgu4l7a0jzt2.png/63px-101431.png"
                 },
                 {
-                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/f/f8/3yzs5tjjofupmtpc1udbsy19upjesgm.png/90px-Icon_skill_3002.png",
-                    "name": "陷阱专家+",
-                    "desc": "战斗开始时提升自身物理防御力（中） 、提升自身物理攻击（小）。",
-                    "result": "提升自身【2.0+2.0*技能等级】点物理防御力，提升自身【225】点物理攻击力"
+                    "equipName": "守护项链",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/61/0pp1j0pnjufszaphz5oqju2drq14s1g.png/63px-101581.png"
+                },
+                {
+                    "equipName": "守护项链",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/61/0pp1j0pnjufszaphz5oqju2drq14s1g.png/63px-101581.png"
                 }
             ],
-            "headImg": "https://patchwiki.biligame.com/images/pcr/thumb/1/1d/biyc1gryppcb7c5tzdvqti6bmcyd55w.png/100px-Icon_unit_100431.png",
-            "gif": ""
-        }
-    ]
+            "Rank2": [
+                {
+                    "equipName": "皮革手套",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/24/bn063rtrj1unuorm7wzw71suow3wisv.png/63px-102101.png"
+                },
+                {
+                    "equipName": "指挥匕首",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/b3/c1wk8itiuvjuw7n3js65nf4859emyas.png/63px-102071.png"
+                },
+                {
+                    "equipName": "民俗服饰",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/e5/s127osnlbddxb4wd3hu4mjio4h8ikxt.png/63px-102341.png"
+                },
+                {
+                    "equipName": "小丑靴",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/5/5f/ktk85ej5bo17eo2hh41vqfinuvgksb1.png/63px-102431.png"
+                },
+                {
+                    "equipName": "守护项链",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/61/0pp1j0pnjufszaphz5oqju2drq14s1g.png/63px-101581.png"
+                },
+                {
+                    "equipName": "守护项链",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/61/0pp1j0pnjufszaphz5oqju2drq14s1g.png/63px-101581.png"
+                }
+            ],
+            "Rank3": [
+                {
+                    "equipName": "铂金小刀",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/8/81/2hmr3zp6khy4fxa65fphbsuxnl7ke3n.png/63px-103071.png"
+                },
+                {
+                    "equipName": "皮革手套",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/24/bn063rtrj1unuorm7wzw71suow3wisv.png/63px-102101.png"
+                },
+                {
+                    "equipName": "民俗服饰",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/e5/s127osnlbddxb4wd3hu4mjio4h8ikxt.png/63px-102341.png"
+                },
+                {
+                    "equipName": "狩猎靴",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/13/djwfya1ecjtm2024kus3vcrbn4obftk.png/63px-102432.png"
+                },
+                {
+                    "equipName": "仁爱宝珠",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/27/3qw5cctvhn9hvkjntcmpag52lxqaxxu.png/63px-102581.png"
+                },
+                {
+                    "equipName": "仁爱宝珠",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/27/3qw5cctvhn9hvkjntcmpag52lxqaxxu.png/63px-102581.png"
+                }
+            ],
+            "Rank4": [
+                {
+                    "equipName": "龙牙之爪",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/5/5b/9dft5dwxipfr1psx9vosnifae5495xk.png/63px-103101.png"
+                },
+                {
+                    "equipName": "铂金小刀",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/8/81/2hmr3zp6khy4fxa65fphbsuxnl7ke3n.png/63px-103071.png"
+                },
+                {
+                    "equipName": "千层服",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/b2/ss4reitdpnfvxxb7mxcp0cq724ey38q.png/63px-103341.png"
+                },
+                {
+                    "equipName": "忍者鞋",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/4/49/i2zszl0cofhugbhmo05id95e7p54773.png/63px-103431.png"
+                },
+                {
+                    "equipName": "胜利的编织手镯",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7a/ajiy0d7vmm75u2m96gjekag2wa8vb0o.png/63px-102582.png"
+                },
+                {
+                    "equipName": "胜利的编织手镯",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7a/ajiy0d7vmm75u2m96gjekag2wa8vb0o.png/63px-102582.png"
+                }
+            ],
+            "Rank5": [
+                {
+                    "equipName": "吸血鬼匕首",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7a/4o9412jjh8del4ikuxxat1kogoc7clb.png/63px-103072.png"
+                },
+                {
+                    "equipName": "龙牙之爪",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/5/5b/9dft5dwxipfr1psx9vosnifae5495xk.png/63px-103101.png"
+                },
+                {
+                    "equipName": "宫廷服饰",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/f/f2/7syb727e342j54gldwqu9s2otljumy1.png/63px-103342.png"
+                },
+                {
+                    "equipName": "击剑之靴",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/ad/n62v0tn2flzfgbs1ykfvn0okxnrvypg.png/63px-103432.png"
+                },
+                {
+                    "equipName": "八芒星项链",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/eb/8ukclbrxfer4cnqxjber7z5q5oiinep.png/63px-103582.png"
+                },
+                {
+                    "equipName": "绿宝石耳环",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/13/gcbszfcarwwg3jlctugel7lk48sul8w.png/63px-103581.png"
+                }
+            ],
+            "Rank6": [
+                {
+                    "equipName": "火焰护臂",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/cf/1rj0l9vuygb0f38kil7r345w4i6trys.png/63px-104101.png"
+                },
+                {
+                    "equipName": "吸血鬼匕首",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7a/4o9412jjh8del4ikuxxat1kogoc7clb.png/63px-103072.png"
+                },
+                {
+                    "equipName": "秩序法衣",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/8/8e/ikzopesogor57gvnt0e65d8hsss0ujd.png/63px-103343.png"
+                },
+                {
+                    "equipName": "击剑之靴",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/ad/n62v0tn2flzfgbs1ykfvn0okxnrvypg.png/63px-103432.png"
+                },
+                {
+                    "equipName": "狮鹫之羽饰",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/be/dnwp1g9wdznkwax2r1k7ak6iw4iuve0.png/63px-103552.png"
+                },
+                {
+                    "equipName": "八芒星项链",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/eb/8ukclbrxfer4cnqxjber7z5q5oiinep.png/63px-103582.png"
+                }
+            ],
+            "Rank7": [
+                {
+                    "equipName": "狮子王的护臂",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/b7/f66clscxcltutrckbf999w1mvrwwv5x.png/63px-104102.png"
+                },
+                {
+                    "equipName": "火焰护臂",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/cf/1rj0l9vuygb0f38kil7r345w4i6trys.png/63px-104101.png"
+                },
+                {
+                    "equipName": "月下法衣",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/1c/acd8zho0ciwd5gixfmbd7v3e64sge5i.png/63px-104341.png"
+                },
+                {
+                    "equipName": "狮子王的守护",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/d7/lwjf9dj3v1bb7mownz2bwd68ugpcrwc.png/63px-103583.png"
+                },
+                {
+                    "equipName": "狮子王的守护",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/d7/lwjf9dj3v1bb7mownz2bwd68ugpcrwc.png/63px-103583.png"
+                },
+                {
+                    "equipName": "狮鹫之羽饰",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/be/dnwp1g9wdznkwax2r1k7ak6iw4iuve0.png/63px-103552.png"
+                }
+            ],
+            "Rank8": [
+                {
+                    "equipName": "暴雪之爪",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/1d/s2sg2cp014k73golky0ufwe6wsk3pu0.png/63px-104103.png"
+                },
+                {
+                    "equipName": "狮子王的护臂",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/b7/f66clscxcltutrckbf999w1mvrwwv5x.png/63px-104102.png"
+                },
+                {
+                    "equipName": "隐者服饰",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/3/3e/jt81qzofk8vweipjjck0gwpx55npau4.png/63px-104342.png"
+                },
+                {
+                    "equipName": "圣骑士护胫甲",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/79/kkatno6anpc33srv3efjfl5kwmn45e2.png/63px-104431.png"
+                },
+                {
+                    "equipName": "替身手环",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/c1/rj9xxze3axo7b2w4fsjknw9nqe8u2jy.png/63px-104581.png"
+                },
+                {
+                    "equipName": "狮子王的守护",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/d7/lwjf9dj3v1bb7mownz2bwd68ugpcrwc.png/63px-103583.png"
+                }
+            ],
+            "Rank9": [
+                {
+                    "equipName": "苍雷拳",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/0/0b/1w4q2kkvsy4jmt3vz8orzdmn67x0j93.png/63px-104104.png"
+                },
+                {
+                    "equipName": "暴雪之爪",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/1d/s2sg2cp014k73golky0ufwe6wsk3pu0.png/63px-104103.png"
+                },
+                {
+                    "equipName": "苍天长袍",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7b/1biayyhyvostxqhg4npekvcvl50gnsz.png/63px-104343.png"
+                },
+                {
+                    "equipName": "天使之靴",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/dc/puq8htrwqycozcetu0h8rfd6cc7sirz.png/63px-104432.png"
+                },
+                {
+                    "equipName": "月之手链",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/1c/6ghvcs2jhbmdw2jyw8an2pp5m7ufgzk.png/63px-104582.png"
+                },
+                {
+                    "equipName": "替身手环",
+                    "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/c1/rj9xxze3axo7b2w4fsjknw9nqe8u2jy.png/63px-104581.png"
+                }
+            ]
+        },
+        "tachie": "https://patchwiki.biligame.com/images/pcr/thumb/2/23/mem6rgxw87emwdk7mrkar2xnxsluz5c.png/450px-%E7%A9%82%E9%AB%98%E3%81%BF%E3%81%9D%E3%81%8E.png",
+        "info": {
+            "角色名": "穗高未奏希",
+            "全名": "穂高みそぎ",
+            "外号": "炸弹人",
+            "初始星级": [
+                "https://patchwiki.biligame.com/images/pcr/0/02/flarr20gwdjvjiejjs7c1aoarvecoti.png"
+            ],
+            "职业": "战士",
+            "类型": "前卫",
+            "身高": "128cm",
+            "体重": "27kg",
+            "年龄": "9岁",
+            "生日": "８月10日(狮子座）",
+            "血型": "Ｏ型",
+            "种族": "人类",
+            "公会": "小小甜心",
+            "兴趣": "恶作剧、探险",
+            "CV": "诸星堇",
+            "碎片获取": "单人竞技场商店"
+        },
+        "jiban": {
+            "羁绊2": "物理攻击力+15",
+            "羁绊3": "物理攻击力+30",
+            "羁绊4": "物理攻击力+30",
+            "羁绊5": "物理攻击力+40",
+            "羁绊6": "物理攻击力+40 物理防御力+4",
+            "羁绊7": "物理攻击力+40 物理防御力+4",
+            "羁绊8": "物理攻击力+60 物理防御力+6 HP+200"
+        },
+        "skill": [
+            {
+                "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/8/83/6zmn119kp1uu2ngu01154po0xbdhxwq.png/90px-Icon_skill_1001.png",
+                "name": "捣蛋轰炸机",
+                "desc": "以距离自身第二近的一名敌人为中心对范围内所有敌人造成物理伤害（中）。",
+                "result": "以距离自身第二近的一名敌人为中心对范围内的敌人造成【20.4+20.4*技能等级+1.62*物理攻击力】点物理伤害，范围【300】"
+            },
+            {
+                "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/bf/a1332uhudwm8c7tmfwtcku9wrxf07fx.png/90px-Icon_skill_2010.png",
+                "name": "墨水射击",
+                "desc": "对距离自身第二近的一名敌人造成物理伤害（小）、并使其陷入黑暗状态。",
+                "result": "对距离自身第二近的敌方造成【8.0+8.0*技能等级+0.6*物理攻击力】点物理伤害，并使其陷入黑暗状态，持续时间【8.0】秒，对象进行物理攻击时有【30%】概率miss。"
+            },
+            {
+                "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/3/3c/j0rmobeq8set6qe1kexqub13caafy8a.png/90px-Icon_skill_2004.png",
+                "name": "水球投掷",
+                "desc": "对物理攻击力最高的一名敌人造成物理伤害（小）、使其降低物理攻击力（小）、并提升自身物理攻击力（小）。",
+                "result": "对物理攻击力最高的敌方造成【10.0+10.0*技能等级+0.8*物理攻击力】点物理伤害，"
+            },
+            {
+                "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/f/f8/3yzs5tjjofupmtpc1udbsy19upjesgm.png/90px-Icon_skill_3002.png",
+                "name": "陷阱专家",
+                "desc": "战斗开始时提升自身物理防御力（中） 。",
+                "result": "提升自身【2.0+2.0*技能等级】点物理防御力"
+            },
+            {
+                "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/f/f8/3yzs5tjjofupmtpc1udbsy19upjesgm.png/90px-Icon_skill_3002.png",
+                "name": "陷阱专家+",
+                "desc": "战斗开始时提升自身物理防御力（中） 、提升自身物理攻击（小）。",
+                "result": "提升自身【2.0+2.0*技能等级】点物理防御力，提升自身【225】点物理攻击力"
+            }
+        ],
+        "headImg": "https://patchwiki.biligame.com/images/pcr/thumb/1/1d/biyc1gryppcb7c5tzdvqti6bmcyd55w.png/100px-Icon_unit_100431.png",
+        "gif": ""
+    }
 ]
