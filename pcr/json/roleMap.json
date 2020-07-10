@@ -84,6 +84,66 @@
             "name": "冰川镜华",
             "star": "3",
             "imgUrl": "https://patchwiki.biligame.com/images/pcr/1/1b/qvecmk57e8ie0rcsdzoserlmbm4k771.jpg"
+        },
+        {
+            "name": "智",
+            "star": "3",
+            "imgUrl": "https://patchwiki.biligame.com/images/pcr/7/74/o4ixbhpk5au1h8z44cd1ontgy7g9z0w.jpg"
+        },
+        {
+            "name": "流夏",
+            "star": "3",
+            "imgUrl": "https://patchwiki.biligame.com/images/pcr/8/83/i7ayvkssfkqsacf0py33fntanqi8m9z.jpg"
+        },
+        {
+            "name": "矛依未",
+            "star": "3",
+            "imgUrl": "https://patchwiki.biligame.com/images/pcr/3/30/j6pwc77vvmulmrgz272ozfojz1m0v6y.jpg"
+        },
+        {
+            "name": "嘉夜",
+            "star": "3",
+            "imgUrl": "https://patchwiki.biligame.com/images/pcr/8/83/gk6pxr2ir2d48810hkob4j4ejf4r3jj.jpg"
+        },
+        {
+            "name": "似似花",
+            "star": "3",
+            "imgUrl": "https://patchwiki.biligame.com/images/pcr/b/bf/8t73blk52oqa8pt72mn8x1j9j3nswgv.jpg"
+        },
+        {
+            "name": "克里斯提娜",
+            "star": "3",
+            "imgUrl": "https://patchwiki.biligame.com/images/pcr/e/ee/pn2stzhxon5eye7bvdu8zf186rej7jw.jpg"
+        },
+        {
+            "name": "凯露（夏日）",
+            "star": "3",
+            "imgUrl": "https://patchwiki.biligame.com/images/pcr/0/0b/4rve19csy7b174ttqjsf2fnbthve555.jpg"
+        },
+        {
+            "name": "优衣（新年）",
+            "star": "3",
+            "imgUrl": "https://patchwiki.biligame.com/images/pcr/4/4c/7ux5q1fiwffxlgoiz2tywf8roq2nx1n.jpg"
+        },
+        {
+            "name": "安",
+            "star": "3",
+            "imgUrl": "https://patchwiki.biligame.com/images/pcr/2/2c/r5206rb7acc040qq9ax1jugozxvnqdd.jpg"
+        },
+        {
+            "name": "古蕾雅",
+            "star": "3",
+            "imgUrl": "https://patchwiki.biligame.com/images/pcr/6/68/762gehpaucr4ngq81lne4ker02ms8i0.jpg"
+        },
+        {
+            "name": "咲恋（夏日）",
+            "star": "3",
+            "imgUrl": "https://patchwiki.biligame.com/images/pcr/f/f3/6bk12pq08zpq3bg06a9hm7ez57r7bto.jpg"
+        },
+        {
+            "name": "凯露（新年）",
+            "star": "3",
+            "imgUrl": "https://patchwiki.biligame.com/images/pcr/1/1c/fpzbj6pxn4vyy158ds3dtfux07sssdt.jpg"
         }
     ],
     "two": [
@@ -248,6 +308,11 @@
             "name": "凯露",
             "star": "1",
             "imgUrl": "https://patchwiki.biligame.com/images/pcr/4/4f/jh8ppg6i01t96h7twypy9vqzwrzrd33.jpg"
+        },
+        {
+            "name": "露",
+            "star": "1",
+            "imgUrl": "https://patchwiki.biligame.com/images/pcr/9/90/t12iaoumxj09aoa5v9n6iujk536n36a.jpg"
         }
     ]
 }

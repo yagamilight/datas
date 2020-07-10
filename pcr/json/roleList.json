@@ -60,6 +60,16 @@
         "stand": 785
     },
     {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/8/8f/42rzcdui2rtnpf4je2h94wyz45k5kue.png/90px-Icon_unit_107831.png",
+        "name": "凯露（夏日）",
+        "nick": "水黑猫",
+        "star": "3",
+        "type": "后卫",
+        "career": "法师",
+        "mode": "魔法",
+        "stand": 780
+    },
+    {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/69/1295ipvt0ha6zly43nr690rj7qsl4py.png/90px-Icon_unit_105031.png",
         "name": "玉泉美咲",
         "nick": "眼球法",
@@ -88,6 +98,16 @@
         "career": "法师",
         "mode": "魔法",
         "stand": 750
+    },
+    {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/f/f5/kieyz1llmwrmdtvo2wbl9go0nq3ssa2.png/90px-Icon_unit_108831.png",
+        "name": "优衣（新年）",
+        "nick": "春田",
+        "star": "3",
+        "type": "后卫",
+        "career": "法师",
+        "mode": "魔法",
+        "stand": 745
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/5/57/axnssn93k9c0g0a2prq0w42x9b3vsb8.png/100px-Icon_unit_101531.png",
@@ -150,6 +170,46 @@
         "stand": 700
     },
     {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/df/pwtwalyy4p1mwan77mtvy46yh0vee67.png/90px-Icon_unit_112031.png",
+        "name": "凯露（新年）",
+        "nick": "春黑，唯一神",
+        "star": "3",
+        "type": "后卫",
+        "career": "法师",
+        "mode": "魔法",
+        "stand": 690
+    },
+    {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/e1/3bjuikoa8efst7gk080yqglxzon9zro.png/90px-Icon_unit_107031.png",
+        "name": "似似花",
+        "nick": "nnk",
+        "star": "3",
+        "type": "后卫",
+        "career": "法师",
+        "mode": "魔法",
+        "stand": 660
+    },
+    {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/4/4a/dds1at2grau1ssxvbs0duuqe9qdj9wr.png/90px-Icon_unit_109331.png",
+        "name": "露",
+        "nick": "",
+        "star": "1",
+        "type": "后卫",
+        "career": "法师",
+        "mode": "魔法",
+        "stand": 640
+    },
+    {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/a9/efx83fjuxhie92xf5sl4i09j8xoycke.png/90px-Icon_unit_109231.png",
+        "name": "安",
+        "nick": "大脸盆",
+        "star": "3",
+        "type": "后卫",
+        "career": "法师",
+        "mode": "魔法",
+        "stand": 630
+    },
+    {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7c/9mlr4cmt1yol6qam0k5eetgqpoy9wao.png/90px-Icon_unit_106331.png",
         "name": "亚里莎",
         "nick": "亚里瞎，瞎子",
@@ -158,6 +218,16 @@
         "career": "弓箭手",
         "mode": "物理",
         "stand": 625
+    },
+    {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/7e/cruvpw321tfrrppp4tmgwgnriatqsfr.png/90px-Icon_unit_110331.png",
+        "name": "咲恋（夏日）",
+        "nick": "水电",
+        "star": "3",
+        "type": "中卫",
+        "career": "支援",
+        "mode": "物理",
+        "stand": 585
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/62/h81lrn1gzun78rl6l0354xauni9yqs0.png/90px-Icon_unit_102231.png",
@@ -200,6 +270,16 @@
         "stand": 550
     },
     {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/0/07/sk9tmzkme0hmj1cs4541onwewrgx2h8.png/90px-Icon_unit_109431.png",
+        "name": "古蕾雅",
+        "nick": "龙姬",
+        "star": "3",
+        "type": "中卫",
+        "career": "法师",
+        "mode": "魔法",
+        "stand": 525
+    },
+    {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/a4/mrwruc57npoamhw5y9ttd76s0l76xzd.png/90px-Icon_unit_105931.png",
         "name": "可可萝",
         "nick": "白毛、妈、普白",
@@ -232,7 +312,7 @@
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/e2/10hawbdrcs5cv32ynab7ofxw2bfutrg.png/100px-Icon_unit_104431.png",
         "name": "伊莉亚",
-        "nick": "",
+        "nick": "那个女人, yly",
         "star": "3",
         "type": "中卫",
         "career": "法师",
@@ -310,6 +390,16 @@
         "stand": 360
     },
     {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/64/0fiboyjsfpidpeiqy5olahr76tuh5v3.png/90px-Icon_unit_107131.png",
+        "name": "克里斯提娜",
+        "nick": "克总",
+        "star": "3",
+        "type": "前卫",
+        "career": "战士",
+        "mode": "物理",
+        "stand": 290
+    },
+    {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/0/00/0koylmjvym7s63y8xmz9skaa1xfuo0t.png/90px-Icon_unit_104931.png",
         "name": "星野静流",
         "nick": "姐姐，弟控",
@@ -358,6 +448,16 @@
         "career": "战士",
         "mode": "物理",
         "stand": 230
+    },
+    {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/dd/rwvxsrizn5d3ta9gxnv7t0v7cza7y56.png/90px-Icon_unit_103731.png",
+        "name": "智",
+        "nick": "白毛剑, 卜毛",
+        "star": "3",
+        "type": "前卫",
+        "career": "剑士",
+        "mode": "物理",
+        "stand": 220
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/3/39/dvomjvmcbbyliifd5hvb97mmqwtocjf.png/90px-Icon_unit_104631.png",
@@ -410,6 +510,16 @@
         "stand": 180
     },
     {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/ad/o4ekpj2q1c8olindxb0zmsmbnuzh0ru.png/90px-Icon_unit_106531.png",
+        "name": "嘉夜",
+        "nick": "废龙",
+        "star": "3",
+        "type": "前卫",
+        "career": "战士",
+        "mode": "物理",
+        "stand": 168
+    },
+    {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/27/ergoy0815kqjqqpqn3sa0yuz2be4pco.png/90px-Icon_unit_104331.png",
         "name": "安芸真琴",
         "nick": "狼、狼女、狼姐、狼妹",
@@ -420,6 +530,16 @@
         "stand": 165
     },
     {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/10/4s5y0eymxrgfyqpov57hb93lyb12yoj.png/90px-Icon_unit_106131.png",
+        "name": "矛依未",
+        "nick": "511",
+        "star": "3",
+        "type": "前卫",
+        "career": "剑士",
+        "mode": "物理",
+        "stand": 162
+    },
+    {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/e3/ccy9fdczpyc94sfm20q7uucw6g0vm5j.png/90px-Icon_unit_102931.png",
         "name": "樱井望",
         "nick": "偶像",
@@ -428,6 +548,16 @@
         "career": "坦克",
         "mode": "物理",
         "stand": 160
+    },
+    {
+        "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/9/91/j4by1059ru0q8mn6w2lsum2242fh9rs.png/90px-Icon_unit_105631.png",
+        "name": "流夏",
+        "nick": "大姐头",
+        "star": "3",
+        "type": "前卫",
+        "career": "剑士",
+        "mode": "物理",
+        "stand": 158
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/67/rpznjh1epytf8mbp0t1dq91svg9dcti.png/90px-Icon_unit_105831.png",
