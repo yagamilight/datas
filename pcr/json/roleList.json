@@ -1,7 +1,7 @@
 [
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/11/kf7jk1e35kfnqqvdd9l0y5f408ktm40.png/100px-Icon_unit_103631.png",
-        "name": "冰川镜华",
+        "name": "镜华",
         "nick": "xcw，喷水萝莉",
         "star": "3",
         "type": "后卫",
@@ -11,7 +11,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/c3/f8eexvpqyqkccbjad1uucs9z9whwnuy.png/90px-Icon_unit_100831.png",
-        "name": "虹村雪",
+        "name": "雪",
         "nick": "镜子、雪哥",
         "star": "2",
         "type": "后卫",
@@ -21,7 +21,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/18/h8ni7jp1oej5mk2al7v1rjofkd4nqis.png/90px-Icon_unit_100231.png",
-        "name": "草野优衣",
+        "name": "优衣",
         "nick": "粉毛、种田",
         "star": "1",
         "type": "后卫",
@@ -31,7 +31,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/72/jb3637kcjwh7z9559n3ca377tkldr0t.png/90px-Icon_unit_101031.png",
-        "name": "姬宫真步",
+        "name": "真步",
         "nick": "狐狸、真扎（声优）、咕噜灵波（繁中版灵魂翻译）",
         "star": "3",
         "type": "后卫",
@@ -41,7 +41,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/db/egxfjidgjrjc8uatgi30dhvwzb3hkwn.png/90px-Icon_unit_104231.png",
-        "name": "三角千歌",
+        "name": "千歌",
         "nick": "绿毛、歌姬",
         "star": "2",
         "type": "后卫",
@@ -51,7 +51,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/28/dwctebo5xojfp84t1dl8rzwf5semv7n.png/90px-Icon_unit_104031.png",
-        "name": "双叶碧",
+        "name": "碧",
         "nick": "香菜弓（声优）",
         "star": "1",
         "type": "后卫",
@@ -71,7 +71,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/69/1295ipvt0ha6zly43nr690rj7qsl4py.png/90px-Icon_unit_105031.png",
-        "name": "玉泉美咲",
+        "name": "美咲",
         "nick": "眼球法",
         "star": "1",
         "type": "后卫",
@@ -81,7 +81,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/ba/e1q3ot9mhbtqh7nsgpnc5bp39idld6s.png/90px-Icon_unit_101231.png",
-        "name": "柏崎初音",
+        "name": "初音",
         "nick": "星星、星法、初音、miku",
         "star": "3",
         "type": "后卫",
@@ -121,7 +121,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/cc/gwnmpp3h76m69ewd0oqnl22gtmt6hje.png/90px-Icon_unit_102531.png",
-        "name": "天野铃莓",
+        "name": "铃莓",
         "nick": "女仆",
         "star": "1",
         "type": "后卫",
@@ -131,7 +131,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/8/82/a1pquxl61ls6ahhinzptb63tvadus03.png/90px-Icon_unit_101831.png",
-        "name": "支仓伊绪",
+        "name": "伊绪",
         "nick": "魅魔",
         "star": "3",
         "type": "后卫",
@@ -141,7 +141,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/0/05/exnyc4y1iuhrbjg3gxe7fncrj2mevmh.png/90px-Icon_unit_103831.png",
-        "name": "柏崎栞",
+        "name": "栞",
         "nick": "tp弓、清水弓（声优）、猫耳弓、自充弓、白虎弓",
         "star": "2",
         "type": "后卫",
@@ -151,7 +151,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/e5/6d00c5yutzbikc8vnta72rjzppu5wvj.png/90px-Icon_unit_101631.png",
-        "name": "美波铃奈",
+        "name": "铃奈",
         "nick": "暴击弓、政委",
         "star": "2",
         "type": "后卫",
@@ -161,7 +161,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/a5/jsara36yjh1e8kj1srxtkztghdhmljd.png/90px-Icon_unit_101131.png",
-        "name": "衣之咲璃乃",
+        "name": "璃乃",
         "nick": "妹妹弓，妹弓",
         "star": "3",
         "type": "后卫",
@@ -231,7 +231,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/62/h81lrn1gzun78rl6l0354xauni9yqs0.png/90px-Icon_unit_102231.png",
-        "name": "风宫依里",
+        "name": "依里",
         "nick": "姐姐法、自残法",
         "star": "1",
         "type": "中卫",
@@ -241,7 +241,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/1/14/8pn703o0duodmiyou1c565wjczj5b5o.png/90px-Icon_unit_100631.png",
-        "name": "风宫茜里",
+        "name": "茜里",
         "nick": "妹妹法，妹法",
         "star": "2",
         "type": "中卫",
@@ -251,7 +251,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/ed/mez3hg9iq9s5h6gor8ih6om9n9ln2za.png/90px-Icon_unit_105131.png",
-        "name": "宵浜深月",
+        "name": "深月",
         "nick": "抖S、眼罩",
         "star": "2",
         "type": "中卫",
@@ -261,7 +261,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/0/02/al8yiod9vehdtaov9pgs41uovntnkr2.png/90px-Icon_unit_102631.png",
-        "name": "森近铃",
+        "name": "铃",
         "nick": "松鼠",
         "star": "2",
         "type": "中卫",
@@ -291,7 +291,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/7/72/edy145bksvw972yhfpfgp8qbquhsi1j.png/90px-Icon_unit_100931.png",
-        "name": "柊杏奈",
+        "name": "杏奈",
         "nick": "中二，自爆法",
         "star": "3",
         "type": "中卫",
@@ -301,7 +301,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/8/8c/dy0rtln3fvhxkkqfxsnbnws61k8qqjh.png/90px-Icon_unit_102831.png",
-        "name": "佐佐木咲恋",
+        "name": "咲恋",
         "nick": "充电宝",
         "star": "3",
         "type": "中卫",
@@ -321,7 +321,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/ce/fbvjbat2po9fy580a3jyj0z2q4tmf2l.png/90px-Icon_unit_104831.png",
-        "name": "大神美冬",
+        "name": "美冬",
         "nick": "赵云、子龙、持家妹",
         "star": "2",
         "type": "中卫",
@@ -331,7 +331,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/9/91/4h2e4w8p876oxtcu1xv2e9anb16od6s.png/90px-Icon_unit_103031.png",
-        "name": "妮侬・朱贝尔",
+        "name": "妮侬",
         "nick": "武士、扇子",
         "star": "3",
         "type": "中卫",
@@ -341,7 +341,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/0/03/smxy5tsyd5t92fqk5onwy56hlvbobb1.png/90px-Icon_unit_105331.png",
-        "name": "莫妮卡·拜斯温特",
+        "name": "莫妮卡",
         "nick": "毛二力",
         "star": "3",
         "type": "中卫",
@@ -351,7 +351,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/c/cd/mpjpf8q3fczqdn5stzx5epe7a1whb1n.png/90px-Icon_unit_103431.png",
-        "name": "绫濑由加莉",
+        "name": "由加莉",
         "nick": "圣骑、酒鬼、奶骑、黄骑、优花梨",
         "star": "1",
         "type": "中卫",
@@ -361,7 +361,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/2e/o6c9lsjthg36mzdt7cysolok3cv3pvm.png/90px-Icon_unit_103331.png",
-        "name": "野户真阳",
+        "name": "真阳",
         "nick": "奶牛",
         "star": "2",
         "type": "中卫",
@@ -371,7 +371,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/e1/bh7jkgsmitpvxulkc6mc217pzge6jzx.png/90px-Icon_unit_103131.png",
-        "name": "上喜忍",
+        "name": "忍",
         "nick": "普忍、骷髅刀",
         "star": "2",
         "type": "中卫",
@@ -381,7 +381,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/4/41/fwg0kohgsjgf76yxk3t7uleary1rho4.png/90px-Icon_unit_102031.png",
-        "name": "茜美美",
+        "name": "美美",
         "nick": "兔子",
         "star": "2",
         "type": "中卫",
@@ -401,7 +401,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/0/00/0koylmjvym7s63y8xmz9skaa1xfuo0t.png/90px-Icon_unit_104931.png",
-        "name": "星野静流",
+        "name": "静流",
         "nick": "姐姐，弟控",
         "star": "3",
         "type": "前卫",
@@ -411,7 +411,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/3/33/gcfzk5nghr9krp81u4x59jsbpph41qr.png/90px-Icon_unit_100331.png",
-        "name": "士条怜",
+        "name": "怜",
         "nick": "剑圣",
         "star": "1",
         "type": "前卫",
@@ -431,7 +431,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/0/0f/nwn0d9rx7uo8zxbhxcrrx1s3v4ugkfc.png/90px-Icon_unit_102131.png",
-        "name": "栗林胡桃",
+        "name": "胡桃",
         "nick": "铃铛",
         "star": "1",
         "type": "前卫",
@@ -441,7 +441,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/4/49/md183zh8ewq7lupcmo9smuymjw749cm.png/90px-Icon_unit_102731.png",
-        "name": "仓石惠理子",
+        "name": "惠理子",
         "nick": "病娇、病娇斧",
         "star": "2",
         "type": "前卫",
@@ -461,7 +461,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/3/39/dvomjvmcbbyliifd5hvb97mmqwtocjf.png/90px-Icon_unit_104631.png",
-        "name": "宫坂珠希",
+        "name": "珠希",
         "nick": "猫剑",
         "star": "2",
         "type": "前卫",
@@ -471,7 +471,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/d/de/gx8trmx54y7ft24lq8k0gubg1ag6ree.png/100px-Icon_unit_102331.png",
-        "name": "北条绫音",
+        "name": "绫音",
         "nick": "熊妹，熊锤",
         "star": "2",
         "type": "前卫",
@@ -491,7 +491,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/3/37/264hu9xzlhbahpe8tzexwysq3g13x3n.png/90px-Icon_unit_100131.png",
-        "name": "春咲日和",
+        "name": "日和莉",
         "nick": "猫拳、普猫",
         "star": "1",
         "type": "前卫",
@@ -501,7 +501,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/a/a9/hj9uxkawbpguzfrpkrr6ymjwff6vmym.png/90px-Icon_unit_103231.png",
-        "name": "藤堂秋乃",
+        "name": "秋乃",
         "nick": "千金（大小姐）、红saber、哈哈剑",
         "star": "3",
         "type": "前卫",
@@ -521,7 +521,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/2/27/ergoy0815kqjqqpqn3sa0yuz2be4pco.png/90px-Icon_unit_104331.png",
-        "name": "安芸真琴",
+        "name": "真琴",
         "nick": "狼、狼女、狼姐、狼妹",
         "star": "3",
         "type": "前卫",
@@ -541,7 +541,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/e/e3/ccy9fdczpyc94sfm20q7uucw6g0vm5j.png/90px-Icon_unit_102931.png",
-        "name": "樱井望",
+        "name": "望",
         "nick": "偶像",
         "star": "3",
         "type": "前卫",
@@ -571,7 +571,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/5/59/516euuhwnsfoqvolt8usv5z1jq0kfov.png/90px-Icon_unit_101731.png",
-        "name": "喜屋武香织",
+        "name": "香织",
         "nick": "狗、琉球犬",
         "star": "2",
         "type": "前卫",
@@ -591,7 +591,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/b/b5/672mvpqoxo64iv5t5dkr6vs31ko148k.png/90px-Icon_unit_104531.png",
-        "name": "远见空花",
+        "name": "空花",
         "nick": "抖M",
         "star": "2",
         "type": "前卫",
@@ -601,7 +601,7 @@
     },
     {
         "imgUrl": "https://patchwiki.biligame.com/images/pcr/thumb/6/62/nu4e4h9eopdciqg2va9hf4c8fqjzq3q.png/90px-Icon_unit_100731.png",
-        "name": "出云宫子",
+        "name": "宫子",
         "nick": "布丁",
         "star": "2",
         "type": "前卫",
